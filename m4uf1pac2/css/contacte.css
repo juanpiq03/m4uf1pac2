@@ -1,0 +1,30 @@
+body{
+    background-image: url("../img/backgroundCSS.png");
+    background-repeat: no-repeat; background-size: cover;
+}
+
+body h1{
+    text-align:center;
+    color:violet;
+}
+
+aside{
+    text-align: center;
+    border-bottom-style: solid;
+    border-color: violet ;
+}
+
+aside a:hover{
+    background-color: aquamarine;
+}
+
+.mapa{
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+main iframe{
+    display: flex;
+    justify-content: center;
+}

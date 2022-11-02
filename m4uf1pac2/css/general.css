@@ -1,0 +1,23 @@
+body{
+    background-image: url("../img/backgroundCSS.png");
+    background-repeat: no-repeat; background-size: cover;
+}
+
+main p{
+    color:rgb(255, 255, 255);
+    text-shadow:1px 1px;
+    font-family: sans-serif;
+}
+
+main p:hover{
+    background-color: violet;
+}
+
+main{
+    text-align: center;
+}
+
+main h1{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

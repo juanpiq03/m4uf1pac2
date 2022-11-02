@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+
+main h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 2em;
+}
+
+.videos{
+    margin-left: 5vh;
+    text-align: center;
+}
+
+.videos iframe{
+    margin-bottom: 8em;
+}
+
+main p{
+    margin: 2em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

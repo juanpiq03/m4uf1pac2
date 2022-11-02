@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/backgroundCSS.png");
+    background-repeat: no-repeat; background-size: cover;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: darkslateblue;
+}
+
+table caption{
+    font-size: xx-large;
+}
+  
+th, td {
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+    font-size: large;
+}
+  
+tr:hover{
+    background-color: violet;
+    margin: 0;
+}

@@ -1,0 +1,74 @@
+body{
+    background-color: blueviolet;
+}
+
+main h1{
+    text-align: center;
+    border-bottom: 2px solid violet;
+}
+
+main p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto1{
+    padding:8px 8px 20px 8px;
+   background-color: #ffffff;
+   width: 200px;
+   border: 1px solid #999999;
+   display:block;
+   margin:0 auto 0 auto;
+   margin-bottom: 2em;
+}
+
+.foto2{
+    padding:8px 8px 20px 8px;
+    background-color: #ffffff;
+    width: 200px;
+    border: 1px solid #999999;
+    display:block;
+    margin:0 auto 0 auto;
+    margin-bottom: 2em;
+}
+
+
+.foto3{
+    padding:8px 8px 20px 8px;
+   background-color: #ffffff;
+   width: 200px;
+   border: 1px solid #999999;
+   display:block;
+   margin:0 auto 0 auto;
+   margin-bottom: 2em;
+}
+
+.foto4{
+    padding:8px 8px 20px 8px;
+   background-color: #ffffff;
+   width: 200px;
+   border: 1px solid #999999;
+   display:block;
+    margin:0 auto 0 auto;
+    margin-bottom: 2em;
+}
+
+.foto5{
+    padding:8px 8px 20px 8px;
+   background-color: #ffffff;
+   width: 200px;
+   border: 1px solid #999999;
+   display:block;
+    margin:0 auto 0 auto;
+    margin-bottom: 2em;
+}
+
+.foto6{
+    padding:8px 8px 20px 8px;
+   background-color: #ffffff;
+   width: 200px;
+   border: 1px solid #999999;
+   display:block;
+    margin:0 auto 0 auto;
+    margin-bottom: 2em;
+}
